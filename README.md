@@ -1,21 +1,19 @@
-<h1 align="center" style="color:#8A2BE2;">Hi 👋, I'm <span style="color:#8A2BE2;">Madhumitha R</span></h1>
+![Madhumitha R](https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Madhumitha%20R&fontSize=50&fontColor=ffffff)
 <h3 align="center">Electronics & Communication Engineering Student | AI & ML Honours</h3>
 
 ---
-
 ### 👩‍💻 About Me  
-- 🎓 Electronics and Communication Engineering student with Honours in *AI & Machine Learning*  
-- ✔ Completed *Java Full Stack Development Training*  
-- 🔧 Hands-on experience in *Arduino, ESP32, AI Models, IoT Systems, and App Development*  
-- 📱 Developed an *Augmented Reality Learning App* using Unity & VS Code  
-- 🏫 Strong interest in *AI, IoT, Embedded Systems, and Software Development*  
+-  Electronics and Communication Engineering student with Honours in *AI & Machine Learning*  
+- Completed *Java Full Stack Development Training*  
+-  Hands-on experience in *Arduino, ESP32, AI Models, IoT Systems, and App Development*  
+- Developed an *Augmented Reality Learning App* using Unity & VS Code  
+-  Strong interest in *AI, IoT, Embedded Systems, and Software Development*  
 
 ---
-
 ### 🎓 Trainings & Internships  
-- 🏭 *10 Days Training at TVS Training & Services*  
-- 💻 *Python Full Stack Development Internship at VEI Technologies*  
-- 🤖 *Value Added Courses Completed:*  
+- *10 Days Training at TVS Training & Services*  
+-  *Python Full Stack Development Internship at VEI Technologies*  
+- *Value Added Courses Completed:*  
   - Drone Technology  
   - Arduino  
 
