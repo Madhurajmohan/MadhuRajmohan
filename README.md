@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Hi%20👋,%20I%20am%20Madhumitha%20R-8A2BE2?style=for-the-badge&logoColor=white" alt="Madhumitha R">
-</p>
+![Madhumitha R](https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hi%20👋%20I%20am%20Madhumitha%20R&fontSize=50&color=ffffff00&fontColor=8A2BE2)
 <h3 align="center">Electronics & Communication Engineering Student | AI & ML Honours</h3>
 
 ---
