@@ -1,4 +1,14 @@
-![Madhumitha R](https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=200&section=header&text=Madhumitha%20R&fontSize=50&fontColor=ffffff)
+<h1 align="center">
+  <span style="
+    background: linear-gradient(90deg, #8A2BE2, #A020F0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 60px;
+    font-weight: bold;
+    ">
+    Hi 👋, I'm Madhumitha R
+  </span>
+</h1>
 <h3 align="center">Electronics & Communication Engineering Student | AI & ML Honours</h3>
 
 ---
