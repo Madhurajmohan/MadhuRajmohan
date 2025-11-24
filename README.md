@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&text=Hi%20👋%20I%20am%20Madhumitha%20R&fontSize=50&color=ffffff00&fontColor=8A2BE2" alt="Madhumitha R">
-</p>
+<h1 align="center">
+  <span style="color:#8A2BE2; font-size:60px; font-weight:bold;">
+    👋 Hi, I am Madhumitha R
+  </span>
+</h1>
 <h3 align="center">Electronics & Communication Engineering Student | AI & ML Honours</h3>
 
 ---
