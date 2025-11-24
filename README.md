@@ -82,7 +82,7 @@ Published in Asian Journal of Applied Science and Technology (AJAST) – *March 
 
 ---
 
-### 📊 GitHub Stats (Purple Theme)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madhumitha-R&show_icons=true&theme=radical" height="165"/>
