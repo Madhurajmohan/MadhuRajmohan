@@ -1,8 +1,6 @@
-<h1 align="center">
-  <span style="color:#8A2BE2; font-size:60px; font-weight:bold;">
-    👋 Hi, I am Madhumitha R
-  </span>
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%20👋,%20I%20am%20Madhumitha%20R-8A2BE2?style=for-the-badge&logoColor=white" alt="Madhumitha R">
+</p>
 <h3 align="center">Electronics & Communication Engineering Student | AI & ML Honours</h3>
 
 ---
