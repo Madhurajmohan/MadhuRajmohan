@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hi%20👋%20I%20am%20Madhumitha%20R&fontSize=50&color=ffffff00&fontColor=8A2BE2" alt="Madhumitha R">
-</p> <h3 align="center">Electronics & Communication Engineering Student | AI & ML Honours</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&text=Hi%20👋%20I%20am%20Madhumitha%20R&fontSize=50&color=ffffff00&fontColor=8A2BE2" alt="Madhumitha R">
+</p>
+<h3 align="center">Electronics & Communication Engineering Student | AI & ML Honours</h3>
 
 ---
 ### 👩‍💻 About Me  
