@@ -1,4 +1,8 @@
-<h1 align="center" style="color:#8A2BE2;">Hi 👋, I'm <span style="color:#8A2BE2; font-weight:bold;">Madhumitha R</span></h1>
+<h1 align="center">
+  <span style="color:#8A2BE2; font-size:60px; font-weight:bold;">
+    👋 Hi, I am Madhumitha R
+  </span>
+</h1>
 <h3 align="center">Electronics & Communication Engineering Student | AI & ML Honours</h3>
 
 ---
